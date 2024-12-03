@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\lab4\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\444444\\Exam\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\lab4\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\444444\\Exam\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\lab4\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\444444\\Exam\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj",
         "projectName": "Ex002",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\lab4\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\444444\\Exam\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\Ex002.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\lab4\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Поддержка и внедрение\\444444\\Exam\\Laboratornaia-rabota4-no-git\\Exam\\Ex002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
